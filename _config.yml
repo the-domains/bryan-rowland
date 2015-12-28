@@ -1,0 +1,28 @@
+name: Bryan Rowland
+favicon: null
+layout_spectrum: 0.47056880919262767
+typography_spectrum: 0.7965953531675041
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.13042691396549344
+  lightness: 0.329584033228457
+  saturation: 0.35276241274550557
+  rhythmicContrast: 0.9417176798451692
+purpose: []
